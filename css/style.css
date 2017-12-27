@@ -76,7 +76,7 @@ ol li
 { background: transparent;}
   
 #dark_container
-{ height: 430px;
+{ height: 400px;
   background: #1D1D1D;
   background: -moz-linear-gradient(#676767, #1D1D1D);
   background: -o-linear-gradient(#676767, #1D1D1D);
@@ -89,14 +89,14 @@ ol li
 { width: 940px;
   position: relative;
   height: 50px;
-  padding: 15px 0 0 0;
+  padding: 10px 0 0 0;
   background: transparent;}
   
 #welcome
 { width: 940px;
   float: left;
   text-align: center;
-  height: 50px;
+  height: 40px;
   padding-left: 20px;
   background: transparent;} 
   
@@ -104,7 +104,7 @@ ol li
 { width: 940px;
   float: left;
   text-align: center;
-  height: 50px;
+  height: 40px;
   margin: 0 auto;
   padding-left: 20px;
   background: transparent;}   
@@ -454,14 +454,14 @@ ul#nav ul li a:hover, ul#nav li.selected a:hover, ul#nav li.selected a:focus
 
 #slideshow
 { width: 940px;
-  height: 250px;
+  height: 320px;
   float: left;}  
   
 /* styling for the slideshow on the homepage */
 ul.slideshow {
   list-style: none;
   width: 940px;
-  height: 250px;
+  height: 320px;
   overflow: hidden;
   position: relative;
   margin: 20px 0 0 10px;
